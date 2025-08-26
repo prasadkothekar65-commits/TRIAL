@@ -5,7 +5,7 @@ import threading
 import time
 
 # Replace 'YOUR_BOT_TOKEN' with your actual bot token
-TOKEN = 'YOUR_BOT_TOKEN'
+TOKEN = 'MTQwOTcwODY0MTU4MTQwNDI1MA.GAawtY.nizhEQtjMc2sjW5fq0nJhBb9uwZp9Cn-fASurM'
 
 bot = commands.Bot(command_prefix='!')
 
